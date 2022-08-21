@@ -1,5 +1,5 @@
 This is a sample Web Application to use during Continuous Integration demos.
-Hello  Sunny ba
+Hello  Sunny and Sid
 #Build Instruction
 
 
